@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Arkanibeats
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Juan Carlos
+- 👀 I’m interested in Data Science, Web Developing
+- 🌱 I’m currently learning Data Analytics
+- 💞️ I’m looking to collaborate on all proyects
+- 📫 How to reach me here
 
 <!---
 Arkanibeats/Arkanibeats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
