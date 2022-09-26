@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Juan Carlos
 - 👀 I’m interested in Data Science, Web Developing
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m currently learning Web Developer Full Stak and Data Analytics
 - 💞️ I’m looking to collaborate on all proyects
 - 📫 How to reach me here
 
